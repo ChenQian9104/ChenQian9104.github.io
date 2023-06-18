@@ -21,5 +21,5 @@ Work Experience
   * Software Engineer
 - **Align Technology**, San Jose, CA,  Feb 2021 - July 2021
   * R&D Engineer Intern, Simulation & Modeling
-- **Ansys Additive Manufacturing Lab, University of Pittsburgh**, Pittsburgh, PA,  Aug 2016 - Aug 2021
+- **Ansys Additive Manufacturing Lab**, Pittsburgh, PA,  Aug 2016 - Aug 2021
   * Research Assistant
