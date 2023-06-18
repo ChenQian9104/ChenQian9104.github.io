@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "path optimization"
 layout: single-portfolio
 image: '/images/research/Path_optimization.jpeg'
 collection: research
