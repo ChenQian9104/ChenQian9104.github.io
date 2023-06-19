@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">"           "</h2>
+    <h2 class="archive__item-title" itemprop="headline">           </h2>
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -71,7 +71,7 @@
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
         <div class="container">
-          <img src="{{ post.image }}" alt='' style="width:500px;height:300px;margin-right:15px;float:left">
+          <img src="{{ post.image }}" alt='' style="width:300px;height:300px;margin-right:15px;float:left">
           <div class="overlay">
           </div>
         </div>
