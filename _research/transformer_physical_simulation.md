@@ -9,7 +9,7 @@ header:
 abstract: "<b>Using transformer for physical simulation: an application to the transient thermal simulation on multiple layer deposition process</b>"
 authors: '<b>Qian Chen</b>, Albert To'
 github: 'https://github.com/ChenQian9104/AM_sim_transformer'
-tail: "<br/>  <br/> <br/> <br/> <br/> "
+tail: "<br/>  <br/> <br/> <br/> <br/> <br/>"
 ---
 
 {{ page.abstract }}

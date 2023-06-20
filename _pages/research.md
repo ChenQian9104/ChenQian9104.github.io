@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Please check my **[google scholar page](https://scholar.google.com/citations?user=bbCX7LkAAAAJ&hl=en)** for all the publications
+Please check my **[google scholar page](https://scholar.google.com/citations?user=bbCX7LkAAAAJ&hl=en)** for all the publications <br/>
 
 <nbsp>
 
