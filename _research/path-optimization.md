@@ -12,7 +12,7 @@ authors: '<b>Qian Chen</b>, Hunter Taylor, Akihiro Takezawa, Xuan Liang, Xavier 
 paperurl: '/files/pdf/publications/Island_scan_opt.pdf.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S2214860421002815'
 github: 'https://github.com/ChenQian9104/island_scan_opt'
-tail: "<br/> 1 <br/> 2<br/> 3<br/> 4<br/> 5<br/> 6<br/> 7<br/> 8<br/>"
+tail: "<br/> <br/> <br/> <br/> <br/>"
 ---
 
 {{ page.abstract }}

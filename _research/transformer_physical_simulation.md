@@ -6,10 +6,10 @@ collection: research
 order_number: 0
 header: 
   og_image: "research/transformer_physical_simulation.jpg"
-abstract: "Using transformer for physical simulation: an application to the transient thermal simulation on multiple layer deposition process"
+abstract: "<b>Using transformer for physical simulation: an application to the transient thermal simulation on multiple layer deposition process</b>"
 authors: '<b>Qian Chen</b>, Albert To'
 github: 'https://github.com/ChenQian9104/AM_sim_transformer'
-tail: "<br/> 1 <br/> 2<br/> 3<br/> 4<br/> 5<br/> 6<br/> 7<br/> 8<br/>"
+tail: "<br/>  <br/> <br/> <br/> <br/> "
 ---
 
 {{ page.abstract }}

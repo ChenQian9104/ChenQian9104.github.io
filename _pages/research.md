@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Emerging manufacturing technologies such as additive manufacturing and micro/nano fabrication have enabled much richer design freedom, but this also brings challenges associated with exploring a much larger design space and quantifying design uncertainty. The goal of my research is to overcome these challenges by **rethinking what should be a good representation of a design space and how to efficiently explore this space**. My current research treats the design space as a design element, and uses **artificial intelligence (AI)** and **machine learning (ML)** to automatically learn and explore this space. 
+Please check my **[google scholar page](https://scholar.google.com/citations?user=bbCX7LkAAAAJ&hl=en)** for all the publications
 
 <nbsp>
 

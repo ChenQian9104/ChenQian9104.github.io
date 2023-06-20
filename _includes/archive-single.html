@@ -69,20 +69,20 @@
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
         <div class="container">
-          <img src="{{ post.image }}" alt='' style="width:300px;height:300px;margin-right:15px;float:left">
+          <img src="{{ post.image }}" alt='' style="width:500px;height:300px;margin-right:15px;float:left">
           <div class="overlay">
           </div>
         </div>
         {{ post.abstract }}
         <p>
-          {% if post.journal %}
-            {{ post.journal }}
-          {% endif %}
-          <br>
           {% if post.authors %}
             {{ post.authors }}
+            <br>
           {% endif %}
-          <br>
+          {% if post.journal %}
+            {{ post.journal }}
+            <br>
+          {% endif %}
           {% if post.link %}
             <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
             <a href="{{ post.link }}">Link</a>
